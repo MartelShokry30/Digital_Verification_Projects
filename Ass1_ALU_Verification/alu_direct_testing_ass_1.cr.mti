@@ -1,0 +1,15 @@
+{C:/Users/MARTEL/Desktop/verification diploma/Ass1_alu/ALU_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/MARTEL/Desktop/verification diploma/Ass1_alu/ALU_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} {C:/Users/MARTEL/Desktop/verification diploma/Ass1_alu/ALU.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/MARTEL/Desktop/verification diploma/Ass1_alu/ALU.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU_4_bit
+
+Top level modules:
+	ALU_4_bit
+
+} {} {}}

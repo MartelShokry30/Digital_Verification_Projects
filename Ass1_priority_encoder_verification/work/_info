@@ -1,0 +1,73 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/MARTEL/Desktop/verification diploma/Ass1_alu
+T_opt
+!s110 1711582697
+VVagTzM_T@8;OVGGSh2Gz=3
+04 27 4 work four_to_two_priority_enc_tb fast 0
+=1-38f3ab685213-6604ade9-1c-83b8
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R1
+vfour_to_two_priority_enc_tb
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1711583153
+!i10b 1
+!s100 z>JMBgzh5c@_U6@4G[S2T3
+IWeM<iz3jklzJZ>Tklz5oh3
+S1
+Z5 dC:/Users/MARTEL/Desktop/verification diploma/Ass1_priority
+w1711583149
+8C:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc_tb.sv
+FC:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc_tb.sv
+!i122 16
+L0 1 98
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z8 !s108 1711583153.000000
+!s107 C:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc_tb.sv|
+!i113 0
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vpriority_enc
+R3
+R4
+!i10b 1
+!s100 JD>N3SBfm3>B`ERKki^O30
+Img<=CFg:e64P;n8[DmcWf2
+S1
+R5
+w1711582681
+8C:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc.sv
+FC:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc.sv
+!i122 15
+L0 1 24
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/MARTEL/Desktop/verification diploma/Ass1_priority/priority_enc.sv|
+!i113 0
+R9
+R2

@@ -1,0 +1,79 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/MARTEL/Desktop/verification diploma/assignment1_priority_enc
+T_opt
+!s110 1711578728
+VELzGYQ@2l8e73J@W2W5`Z1
+04 6 4 work ALU_tb fast 0
+=1-38f3ab685213-66049e68-c2-4920
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vALU_4_bit
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1711578727
+!i10b 1
+!s100 9dCfNX9k:ZYKEaP]5SXTh0
+Ih`^X<^W?_If7?TIm=D][l2
+S1
+Z4 dC:/Users/MARTEL/Desktop/verification diploma/Ass1_alu
+w1711129279
+8ALU.sv
+FALU.sv
+!i122 15
+L0 1 38
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1711578727.000000
+Z8 !s107 ALU_tb.sv|ALU.sv|
+Z9 !s90 -reportprogress|300|ALU.sv|ALU_tb.sv|+cover|
+!i113 0
+Z10 !s102 +cover
+Z11 o+cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u_4_bit
+vALU_tb
+R2
+R3
+!i10b 1
+!s100 hjD9GcY9S5<3eCVIG>eJ62
+IkF0]zeNmYNn;7_CV<@GGe1
+S1
+R4
+w1711576487
+8ALU_tb.sv
+FALU_tb.sv
+!i122 15
+L0 1 104
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R1
+n@a@l@u_tb
