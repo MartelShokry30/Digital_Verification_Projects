@@ -1,0 +1,129 @@
+F:/Verification_Diploma_files/counter_task_UVM/my_monitor.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/my_monitor.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package monitor_pkg
+** Note: (vlog-2286) F:/Verification_Diploma_files/counter_task_UVM/my_monitor.sv(2): Using implicit +incdir+F:/questasim_for_verification_files/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Importing package config_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package seq_item_pkg
+-- Importing package counter_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/interface.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/interface.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling interface counter_if
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/sequencer.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/sequencer.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package sqr_pkg
+** Note: (vlog-2286) F:/Verification_Diploma_files/counter_task_UVM/sequencer.sv(2): Using implicit +incdir+F:/questasim_for_verification_files/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package seq_item_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/top.sv {2 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/top.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+** Warning: F:/Verification_Diploma_files/counter_task_UVM/top.sv(1): (vlog-13233) Design unit "top_sv_unit" already exists and will be overwritten. Overwriting SystemVerilog $unit with different source files.
+-- Compiling package top_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package test_pkg
+-- Importing package env_pkg
+-- Importing package drv_pkg
+-- Importing package config_pkg
+-- Importing package seq_item_pkg
+-- Importing package counter_pkg
+-- Importing package sqr_pkg
+-- Importing package agt_pkg
+-- Importing package monitor_pkg
+-- Importing package scoreboard_pkg
+-- Importing package coverage_pkg
+-- Importing package main_seq_pkg
+-- Importing package rst_seq_pkg
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/counter_pkg_for_TLM.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/counter_pkg_for_TLM.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package counter_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/counter.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/counter.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/driver.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/driver.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package drv_pkg
+** Note: (vlog-2286) F:/Verification_Diploma_files/counter_task_UVM/driver.sv(2): Using implicit +incdir+F:/questasim_for_verification_files/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Importing package config_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package seq_item_pkg
+-- Importing package counter_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/uvm_rst_sequence.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/uvm_rst_sequence.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package rst_seq_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package seq_item_pkg
+** Note: (vlog-2286) F:/Verification_Diploma_files/counter_task_UVM/uvm_rst_sequence.sv(4): Using implicit +incdir+F:/questasim_for_verification_files/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/config_obj.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/config_obj.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package config_pkg
+** Note: (vlog-2286) F:/Verification_Diploma_files/counter_task_UVM/config_obj.sv(2): Using implicit +incdir+F:/questasim_for_verification_files/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/test.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/test.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package test_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package env_pkg
+-- Importing package drv_pkg
+-- Importing package config_pkg
+-- Importing package seq_item_pkg
+-- Importing package counter_pkg
+-- Importing package sqr_pkg
+-- Importing package agt_pkg
+-- Importing package monitor_pkg
+-- Importing package scoreboard_pkg
+-- Importing package coverage_pkg
+-- Importing package main_seq_pkg
+-- Importing package rst_seq_pkg
+** Note: (vlog-2286) F:/Verification_Diploma_files/counter_task_UVM/test.sv(7): Using implicit +incdir+F:/questasim_for_verification_files/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} F:/Verification_Diploma_files/counter_task_UVM/uvm_main_sequence.sv {1 {vlog -work work -vopt -sv -stats=none F:/Verification_Diploma_files/counter_task_UVM/uvm_main_sequence.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package main_seq_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package seq_item_pkg
+** Note: (vlog-2286) F:/Verification_Diploma_files/counter_task_UVM/uvm_main_sequence.sv(4): Using implicit +incdir+F:/questasim_for_verification_files/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}}
